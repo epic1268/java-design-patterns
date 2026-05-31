@@ -1,0 +1,365 @@
+# 目录
+
+- **visitor**
+  - [README](visitor/README.md)
+- **virtual-proxy**
+  - [README](virtual-proxy/README.md)
+- **view-helper**
+  - [README](view-helper/README.md)
+- **version-number**
+  - [README](version-number/README.md)
+- **value-object**
+  - [README](value-object/README.md)
+- **update-method**
+  - [README](update-method/README.md)
+- **unit-of-work**
+  - [README](unit-of-work/README.md)
+- **type-object**
+  - [README](type-object/README.md)
+- **twin**
+  - [README](twin/README.md)
+- **transaction-script**
+  - [README](transaction-script/README.md)
+- **trampoline**
+  - [README](trampoline/README.md)
+- **tolerant-reader**
+  - [README](tolerant-reader/README.md)
+- **throttling**
+  - [README](throttling/README.md)
+- **thread-pool-executor**
+  - [README](thread-pool-executor/README.md)
+- **templateview**
+  - [README](templateview/README.md)
+- **template-method**
+  - [README](template-method/README.md)
+- **table-module**
+  - [README](table-module/README.md)
+- **table-inheritance**
+  - [README](table-inheritance/README.md)
+- **subclass-sandbox**
+  - [README](subclass-sandbox/README.md)
+- **strategy**
+  - [README](strategy/README.md)
+- **strangler**
+  - [README](strangler/README.md)
+- **step-builder**
+  - [README](step-builder/README.md)
+- **state**
+  - [README](state/README.md)
+- **specification**
+  - [README](specification/README.md)
+- **special-case**
+  - [README](special-case/README.md)
+- **spatial-partition**
+  - [README](spatial-partition/README.md)
+- **singleton**
+  - [README](singleton/README.md)
+- **single-table-inheritance**
+  - [README](single-table-inheritance/README.md)
+- **sharding**
+  - [README](sharding/README.md)
+- **session-facade**
+  - [README](session-facade/README.md)
+- **service-to-worker**
+  - [README](service-to-worker/README.md)
+- **service-stub**
+  - [README](service-stub/README.md)
+- **service-locator**
+  - [README](service-locator/README.md)
+- **service-layer**
+  - [README](service-layer/README.md)
+- **server-session**
+  - [README](server-session/README.md)
+- **servant**
+  - [README](servant/README.md)
+- **serialized-lob**
+  - [README](serialized-lob/README.md)
+- **serialized-entity**
+  - [README](serialized-entity/README.md)
+- **separated-interface**
+  - [README](separated-interface/README.md)
+- **saga**
+  - [README](saga/README.md)
+- **role-object**
+  - [README](role-object/README.md)
+- **retry**
+  - [README](retry/README.md)
+- **resource-acquisition-is-initialization**
+  - [README](resource-acquisition-is-initialization/README.md)
+- **repository**
+  - [README](repository/README.md)
+- **registry**
+  - [README](registry/README.md)
+- **reactor**
+  - [README](reactor/README.md)
+- **rate-limiting-pattern**
+  - [README](rate-limiting-pattern/README.md)
+- **queue-based-load-leveling**
+  - [README](queue-based-load-leveling/README.md)
+- **publish-subscribe**
+  - [README](publish-subscribe/README.md)
+- **proxy**
+  - [README](proxy/README.md)
+- **prototype**
+  - [README](prototype/README.md)
+- **property**
+  - [README](property/README.md)
+- **promise**
+  - [README](promise/README.md)
+- **producer-consumer**
+  - [README](producer-consumer/README.md)
+- **private-class-data**
+  - [README](private-class-data/README.md)
+- **presentation-model**
+  - [README](presentation-model/README.md)
+- **poison-pill**
+  - [README](poison-pill/README.md)
+- **pipeline**
+  - [README](pipeline/README.md)
+- **partial-response**
+  - [README](partial-response/README.md)
+- **parameter-object**
+  - [README](parameter-object/README.md)
+- **page-object**
+  - [README](page-object/README.md)
+- **page-controller**
+  - [README](page-controller/README.md)
+- **optimistic-offline-lock**
+  - [README](optimistic-offline-lock/README.md)
+- **observer**
+  - [README](observer/README.md)
+- **object-pool**
+  - [README](object-pool/README.md)
+- **object-mother**
+  - [README](object-mother/README.md)
+- **null-object**
+  - [README](null-object/README.md)
+- **notification**
+  - [README](notification/README.md)
+- **naked-objects**
+  - [README](naked-objects/README.md)
+- **mute-idiom**
+  - [README](mute-idiom/README.md)
+- **multiton**
+  - [README](multiton/README.md)
+- **monostate**
+  - [README](monostate/README.md)
+- **monolithic-architecture**
+  - [README](monolithic-architecture/README.md)
+- **monitor**
+  - [README](monitor/README.md)
+- **money**
+  - [README](money/README.md)
+- **monad**
+  - [README](monad/README.md)
+- **model-view-viewmodel**
+  - [README](model-view-viewmodel/README.md)
+- **model-view-presenter**
+  - [README](model-view-presenter/README.md)
+- **model-view-intent**
+  - [README](model-view-intent/README.md)
+- **model-view-controller**
+  - [README](model-view-controller/README.md)
+- **microservices-self-registration**
+  - [README](microservices-self-registration/README.md)
+- **microservices-log-aggregation**
+  - [README](microservices-log-aggregation/README.md)
+- **microservices-idempotent-consumer**
+  - [README](microservices-idempotent-consumer/README.md)
+- **microservices-distributed-tracing**
+  - [README](microservices-distributed-tracing/README.md)
+- **microservices-client-side-ui-composition**
+  - [README](microservices-client-side-ui-composition/README.md)
+- **microservices-api-gateway**
+  - [README](microservices-api-gateway/README.md)
+- **microservices-aggregrator**
+  - [README](microservices-aggregrator/README.md)
+- **metadata-mapping**
+  - [README](metadata-mapping/README.md)
+- **memento**
+  - [README](memento/README.md)
+- **mediator**
+  - [README](mediator/README.md)
+- **master-worker**
+  - [README](master-worker/README.md)
+- **marker-interface**
+  - [README](marker-interface/README.md)
+- **map-reduce**
+  - [README](map-reduce/README.md)
+- **lockable-object**
+  - [README](lockable-object/README.md)
+- **localization**
+- **leader-followers**
+  - [README](leader-followers/README.md)
+- **leader-election**
+  - [README](leader-election/README.md)
+- **lazy-loading**
+  - [README](lazy-loading/README.md)
+- **layered-architecture**
+  - [README](layered-architecture/README.md)
+- **iterator**
+  - [README](iterator/README.md)
+- **interpreter**
+  - [README](interpreter/README.md)
+- **intercepting-filter**
+  - [README](intercepting-filter/README.md)
+- **identity-map**
+  - [README](identity-map/README.md)
+- **hexagonal-architecture**
+  - [README](hexagonal-architecture/README.md)
+- **health-check**
+  - [README](health-check/README.md)
+- **half-sync-half-async**
+  - [README](half-sync-half-async/README.md)
+- **guarded-suspension**
+  - [README](guarded-suspension/README.md)
+- **gateway**
+  - [README](gateway/README.md)
+- **game-loop**
+  - [README](game-loop/README.md)
+- **function-composition**
+  - [README](function-composition/README.md)
+- **front-controller**
+  - [README](front-controller/README.md)
+- **flyweight**
+  - [README](flyweight/README.md)
+- **flux**
+  - [README](flux/README.md)
+- **fluent-interface**
+  - [README](fluent-interface/README.md)
+- **filterer**
+  - [README](filterer/README.md)
+- **feature-toggle**
+  - [README](feature-toggle/README.md)
+- **fanout-fanin**
+  - [README](fanout-fanin/README.md)
+- **factory**
+  - [README](factory/README.md)
+- **factory-method**
+  - [README](factory-method/README.md)
+- **factory-kit**
+  - [README](factory-kit/README.md)
+- **facade**
+  - [README](facade/README.md)
+- **extension-objects**
+  - [README](extension-objects/README.md)
+- **execute-around**
+  - [README](execute-around/README.md)
+- **event-sourcing**
+  - [README](event-sourcing/README.md)
+- **event-queue**
+  - [README](event-queue/README.md)
+- **event-driven-architecture**
+  - [README](event-driven-architecture/README.md)
+- **event-based-asynchronous**
+  - [README](event-based-asynchronous/README.md)
+- **event-aggregator**
+  - [README](event-aggregator/README.md)
+- **dynamic-proxy**
+  - [README](dynamic-proxy/README.md)
+- **double-dispatch**
+  - [README](double-dispatch/README.md)
+- **double-checked-locking**
+  - [README](double-checked-locking/README.md)
+- **double-buffer**
+  - [README](double-buffer/README.md)
+- **domain-model**
+  - [README](domain-model/README.md)
+- **dirty-flag**
+  - [README](dirty-flag/README.md)
+- **dependency-injection**
+  - [README](dependency-injection/README.md)
+- **delegation**
+  - [README](delegation/README.md)
+- **decorator**
+  - [README](decorator/README.md)
+- **data-transfer-object**
+  - [README](data-transfer-object/README.md)
+- **data-mapper**
+  - [README](data-mapper/README.md)
+- **data-locality**
+  - [README](data-locality/README.md)
+- **data-bus**
+  - [README](data-bus/README.md)
+- **data-access-object**
+  - [README](data-access-object/README.md)
+- **dao-factory**
+  - [README](dao-factory/README.md)
+- **currying**
+  - [README](currying/README.md)
+- **curiously-recurring-template-pattern**
+  - [README](curiously-recurring-template-pattern/README.md)
+- **converter**
+  - [README](converter/README.md)
+- **context-object**
+  - [README](context-object/README.md)
+- **composite**
+  - [README](composite/README.md)
+- **composite-view**
+  - [README](composite-view/README.md)
+- **composite-entity**
+  - [README](composite-entity/README.md)
+- **component**
+  - [README](component/README.md)
+- **commander**
+  - [README](commander/README.md)
+- **command**
+  - [README](command/README.md)
+- **command-query-responsibility-segregation**
+  - [README](command-query-responsibility-segregation/README.md)
+- **combinator**
+  - [README](combinator/README.md)
+- **collection-pipeline**
+  - [README](collection-pipeline/README.md)
+- **collecting-parameter**
+  - [README](collecting-parameter/README.md)
+- **client-session**
+  - [README](client-session/README.md)
+- **clean-architecture**
+  - [README](clean-architecture/README.md)
+- **circuit-breaker**
+  - [README](circuit-breaker/README.md)
+- **chain-of-responsibility**
+  - [README](chain-of-responsibility/README.md)
+- **callback**
+  - [README](callback/README.md)
+- **caching**
+  - [README](caching/README.md)
+- **bytecode**
+  - [README](bytecode/README.md)
+- **business-delegate**
+  - [README](business-delegate/README.md)
+- **builder**
+  - [README](builder/README.md)
+- **bridge**
+  - [README](bridge/README.md)
+- **bloc**
+  - [README](bloc/README.md)
+- **balking**
+  - [README](balking/README.md)
+- **backpressure**
+  - [README](backpressure/README.md)
+- **async-method-invocation**
+  - [README](async-method-invocation/README.md)
+- **arrange-act-assert**
+  - [README](arrange-act-assert/README.md)
+- **anti-corruption-layer**
+  - [README](anti-corruption-layer/README.md)
+- **ambassador**
+  - [README](ambassador/README.md)
+- **adapter**
+  - [README](adapter/README.md)
+- **acyclic-visitor**
+  - [README](acyclic-visitor/README.md)
+- **actor-model**
+  - [README](actor-model/README.md)
+- **active-object**
+  - [README](active-object/README.md)
+- **abstract-factory**
+  - [README](abstract-factory/README.md)
+- **abstract-document**
+  - [README](abstract-document/README.md)
+- [AGENTS](AGENTS.md)
+- [LICENSE](LICENSE.md)
+- [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE.md)
+- [README](README.md)
